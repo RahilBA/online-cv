@@ -163,8 +163,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python, R, SQL, TensorFlow, PyTorch, Spark, Databricks
 
       - name: Javascript & jQuery
         level: 98%
