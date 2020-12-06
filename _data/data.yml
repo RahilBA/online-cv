@@ -14,26 +14,17 @@ sidebar:
     # Sidebar links
     email: rahil.bagheri@gmail.com
     phone: 404 563 0934
-    website: ://medium.com/@rahil.bagherim #do not add http://
+    website: http://medium.com/@rahil.bagherim #do not add http://
     linkedin: RahilBagheri
     github: RahilBA
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  
 
     languages:
       - idiom: English
-        level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Farsi
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Arabic
 
     interests:
       - item: Outdoor
