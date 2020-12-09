@@ -130,8 +130,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Artificial Intelligence: Machine Learning
-      - name: Javascript & jQuery
+      - name: Machine Learning, Deep Neural Learning, Computer Vision, Natural Language Processing, Transfer Learning, Supervised and Unsupervised Learning, Recommendation Engines
         level: 98%
 
       - name: Angular
