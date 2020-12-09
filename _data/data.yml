@@ -132,10 +132,7 @@ skills:
     toolset:
       - name: Machine Learning
       - name: Deep Neural Learning
-      - name: Natural Language Understanding
-      - name: Bayesian Analysis
-      - name: Time Series
-      - name: A/B testing
+      - name: Statistical inference
       - name: Python
       - name: R
       - name: Spark
