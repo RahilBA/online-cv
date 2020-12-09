@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: rahil.bagheri@gmail.com
     phone: 404 563 0934
-    website: http://medium.com/@rahil.bagherim #do not add http://
+    website: medium.com/@rahil.bagheri #do not add http://
     linkedin: RahilBagheri
     github: RahilBA
   
@@ -126,15 +126,9 @@ publications:
         link: "https://towardsdatascience.com/deep-learning-build-a-dog-detector-and-breed-classifier-using-cnn-f6ea2e5d954a"
         conference: "towards data science, 2019"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Why to help Seattle Airbnb hosts and guests make smarter decisions?!"
+        link: "https://towardsdatascience.com/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae"
+        conference: "towards data science, 2019"
 
 skills:
     title: Skills &amp; Proficiency
