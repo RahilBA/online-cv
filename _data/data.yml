@@ -130,8 +130,7 @@ skills:
     title: Skills 
 
     toolset:
-      - name: Artificial Intelligence: Machine Learning, Deep Neural Learning, Computer Vision, Natural Language Processing, Transfer Learning, Supervised and Unsupervised Learning, Recommendation Engines
-
+      - name: Artificial Intelligence: Machine Learning
       - name: Javascript & jQuery
         level: 98%
 
