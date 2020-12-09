@@ -21,10 +21,13 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Fluent
 
       - idiom: Farsi
+        level: Fluent
 
       - idiom: Arabic
+        level: intermediate
 
     interests:
       - item: Outdoor Activities
@@ -45,7 +48,7 @@ career-profile:
       successful NLP and ML projects and product improvement in IT, healthcare, 
       and finance across private and public sectors.
 education:
-    - degree: MSc in Mathematics and Statistics
+    - degree: MSc in Mathematics & Statistics
       university: Georgia State University
       time: 2013 - 2016
       details: |
@@ -75,50 +78,34 @@ education:
 experiences:
     - role: Data Scientist
       time: 2018 - Present
-      company: REI Systems, Virginia
+      company: REISystems, Sterling, Virginia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        In REI, I am leading the data science research team by providing technical guidance on data acquisition, 
+        proper statistical metrics, Machine Learning, and the latest state-of-the-art methods and tools. 
+        Also, I am driving the development and deployment of Deep Learning, Natural Language Processing, 
+        Machine Learning, and Statistical models for our government clients. I am communicating quantitative and 
+        data-driven insights and recommendations to client and policymakers, 
+        credibly interface between the technical data science team and business stakeholders
+         
+    - role: Data Scientist
+      time: 2015 - 2017
+      company: NueSoft Tech., Atlanta, Georgia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Here in NueSoft, I was performing Machine Learning techniques to equip marketing and senior managers to formulate customer’s behavior. 
+        I designed several statistical experiments and metrics to improve the CRM software that resulted in 20% more users’ engagement.
+        
+    - role: Statistical Laboratory Assistant
+      time: 2013 - 2016
+      company: Georgia State University, Atlanta, Georgia 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was teaching statistics and linear algebra to graduate and undergraduate students. 
+        
 projects:
-    title: Projects
+    title: Computer Vision 
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Developed a CNN object detection and classification model that detects dogs and humans from images
     assignments:
-      - title: Velocity
-        link: "#hook"
+        link: "#https://github.com/RahilBA/Dog-Breed-Classifier"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
       - title: DevStudio
