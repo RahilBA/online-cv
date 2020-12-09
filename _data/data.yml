@@ -101,12 +101,15 @@ experiences:
         I was teaching statistics and linear algebra to graduate and undergraduate students. 
         
 projects:
-    title: Computer Vision 
+    title: Projects
     intro: >
-      Developed a CNN object detection and classification model that detects dogs and humans from images
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Computer Vision
         link: "#https://github.com/RahilBA/Dog-Breed-Classifier"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed a CNN object detection and classification model that detects dogs and humans from images."
 
       - title: DevStudio
         link: "#"
