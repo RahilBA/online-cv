@@ -130,16 +130,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Machine Learning, Deep Neural Learning, Computer Vision, Natural Language Processing, Transfer Learning, Supervised and Unsupervised Learning, Recommendation Engines
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Machine Learning
+      - name: Deep Neural Learning
+      - name: Natural Language Understanding
+      - name: Bayesian Analysis
+      - name: Time Series
+      - name: A/B testing
+      - name: Python
+      - name: R
+      - name: Spark
+      - name: Databricks
+     
