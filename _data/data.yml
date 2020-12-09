@@ -127,11 +127,10 @@ publications:
         conference: "towards data science, 2019"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Artificial Intelligence: Machine Learning, Deep Neural Learning, Computer Vision, Natural Language Processing, Transfer Learning, Supervised and Unsupervised Learning, Recommendation Engines
 
       - name: Javascript & jQuery
         level: 98%
