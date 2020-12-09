@@ -122,9 +122,8 @@ publications:
     title: Publications
     intro: |
     papers:
-      - title: Deep Learning: How to build a dog detector and breed classifier using CNN?!
+      - title: "Deep Learning: How to build a dog detector and breed classifier using CNN?!"
         link: "https://towardsdatascience.com/deep-learning-build-a-dog-detector-and-breed-classifier-using-cnn-f6ea2e5d954a"
-        authors:
         conference: "towards data science, 2019"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
