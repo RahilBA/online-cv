@@ -120,6 +120,7 @@ skills:
     toolset:
       - name: Machine Learning
       - name: Deep Neural Learning
+      - name: NLP & NLU
       - name: Statistical Inference
       - name: Python
       - name: R
