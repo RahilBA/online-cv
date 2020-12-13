@@ -121,6 +121,7 @@ skills:
       - name: Machine Learning
       - name: Deep Neural Learning
       - name: NLP & NLU
+      - name: Recommendation Systems
       - name: Statistical Inference
       - name: Python
       - name: R
