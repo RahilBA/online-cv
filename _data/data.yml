@@ -102,7 +102,7 @@ projects:
         link: "https://github.com/RahilBA/Image_Classifier_Application"
         tagline: "Built a CNN image classifier that classifies different flowers’ species from images."
 
-      - title: Natural Language Processing
+      - title: Document Classification
         link: "https://github.com/RahilBA/Disaster_Messages_ML_NLP_Python_Pipline"
         tagline: "Developed ETL, ML and NLP pipelines that classify real tweets and disaster messages to 36 different classes."
 
