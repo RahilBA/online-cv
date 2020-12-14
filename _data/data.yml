@@ -94,11 +94,11 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Computer Vision
+      - title: Object Detection
         link: "https://github.com/RahilBA/Dog-Breed-Classifier"
         tagline: "Developed a CNN object detection and classification model that detects dogs and humans from images."
 
-      - title: Computer Vision
+      - title: Image Classification
         link: "https://github.com/RahilBA/Image_Classifier_Application"
         tagline: "Built a CNN image classifier that classifies different flowers’ species from images."
 
