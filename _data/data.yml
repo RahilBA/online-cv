@@ -115,7 +115,7 @@ projects:
         tagline: "Designed personalized Probabilistic Matrix Factorization, SVD, ALS, and content-based collaborative filtering recommendation engines that suggest articles to users."
 
 skills:
-    title: Skills
+    title: Technical Skills & Tools
 
     toolset:
       - name: Machine Learning
