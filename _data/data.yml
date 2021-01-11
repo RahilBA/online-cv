@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data scientist with strong background in mathematics and statistics, collaborating with multi-disciplinary teams, researching, developing, commercializing, and deploying end-to-end AI solutions. My focus has been on finding data driven and innovative solutions to real-world business problems that resulted in several successful NLP and ML projects in IT, healthcare, and finance across private and public sectors.  
+      Data Scientist and Machine Learning Engineer with background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven and innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
 education:
     - degree: MSc in Mathematical Statistics
       university: Georgia State University
@@ -114,6 +114,20 @@ projects:
         link: "https://github.com/RahilBA/Recommendation_Engine_For_IBM_Watson_Platform"
         tagline: "Designed personalized Probabilistic Matrix Factorization, SVD, ALS, and content-based collaborative filtering recommendation engines that suggest articles to users."
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: Deep Learning: How to build a dog detector and breed classifier using CNN?!
+        link: "https://towardsdatascience.com/deep-learning-build-a-dog-detector-and-breed-classifier-using-cnn-f6ea2e5d954a"
+
+      - title: "Use Machine Learning techniques to help Seattle Airbnb hosts and guests make smarter decisions?!"
+        link: "https://towardsdatascience.com/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae"
+
+
 skills:
     title: Skills & Tools
 
@@ -127,4 +141,5 @@ skills:
       - name: R
       - name: Spark
       - name: Databricks
+      - name: AWS
      
