@@ -121,10 +121,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: Deep Learning: How to build a dog detector and breed classifier using CNN?!
+      - title: "Deep Learning: How to build a dog detector and breed classifier using CNN?!"
         link: "https://towardsdatascience.com/deep-learning-build-a-dog-detector-and-breed-classifier-using-cnn-f6ea2e5d954a"
 
-      - title: "Use Machine Learning techniques to help Seattle Airbnb hosts and guests make smarter decisions?!"
+      - title: "Apply Machine Learning techniques to help Seattle Airbnb hosts and guests make smarter decisions?!"
         link: "https://towardsdatascience.com/using-data-to-help-seattle-airbnb-hosts-and-guests-make-smarter-decisions-39749cc43ae"
 
 
