@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Data Scientist and Machine Learning Engineer with background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven and innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
+      I am a senior data scientist and NLP research engineeer with a strong background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven and innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
 education:
     - degree: MSc in Mathematical Statistics
       university: Georgia State University
@@ -76,7 +76,7 @@ experiences:
       time: 2018 - Present
       company: REISystems, Sterling, Virginia
       details: |
-        I am leading the data science research team by providing technical guidance on data acquisition, proper statistical, machine learning, deep learning, and the latest state-of-the-art methods and tools. I build machine learning pipelines, also consult government agencies in designing and developing accurate and trustworthy AI solutions.
+        I am a researcher who develops Deep Neural Network and Natural Language Understanding frameworks using state-of-the-art Language Models and Transformers. I am leading the data science research team by providing technical guidance on data acquisition, proper statistical, machine learning, deep learning methods, and tools.
          
     - role: Data Scientist
       time: 2015 - 2017
@@ -131,12 +131,13 @@ skills:
     toolset:
       - name: Machine Learning
       - name: Deep Neural Learning
-      - name: NLP & NLU
+      - name: NLP, NLU, Language Models
       - name: Recommendation Systems
       - name: Statistical Inference
       - name: Python
+      - name: AWS (S3, SageMaker)
       - name: R
       - name: Spark
       - name: Databricks
-      - name: AWS
+      
      
