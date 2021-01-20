@@ -131,7 +131,8 @@ skills:
     toolset:
       - name: Machine Learning
       - name: Deep Neural Learning
-      - name: NLP, NLU, Language Models
+      - name: NLP, NLU
+      - name: Language Models
       - name: Recommendation Systems
       - name: Statistical Inference
       - name: Python
