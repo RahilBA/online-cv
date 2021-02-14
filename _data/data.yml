@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a senior data scientist and NLP research engineeer with a strong background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven and innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
+      I am a senior data scientist with a strong background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
 education:
     - degree: MSc in Mathematical Statistics
       university: Georgia State University
@@ -76,7 +76,7 @@ experiences:
       time: 2018 - Present
       company: REISystems, Sterling, Virginia
       details: |
-        I am a researcher who develops Deep Neural Network and Natural Language Understanding frameworks using state-of-the-art Language Models and Transformers. I am leading the data science research team by providing technical guidance on data acquisition, proper statistical, machine learning, deep learning methods, and tools.
+        I am leading the data science research team by providing technical guidance on key business drivers, data acquisition, proper statistical, machine learning, deep learning methods, and tools. I am designing high-quality statistical metrics, experiments and analytic plans for data modeling processes while developing Deep Neural Network and Natural Language Understanding frameworks using state-of-the-art Language Models. 
          
     - role: Data Scientist
       time: 2015 - 2017
