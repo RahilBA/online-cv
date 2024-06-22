@@ -76,8 +76,8 @@ experiences:
       time: 2021 - Present
       company: Deloitte Consulting, McLean, Virginia
       details: |
-          Led the design, development, and deployment of large-scale Computer Vision models at Meta, leveraging Meta’s cloud based internal tools to enhance accuracy of geospatial data and 3D modeling. 
-    
+          Led the design, development, and deployment of end2end computer vision frameworks that generates, and extracts map related objects from aerial and street images to support a high-fidelity AR map, enhance map object detection and alignment, enable pedestrian navigation, and geospatial analysis.
+
     - role: Lead Data Scientist
       time: 2018 - 2021
       company: REISystems, Sterling, Virginia
