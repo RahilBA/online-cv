@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rahil Bagheri 
-    tagline: Data Scientist
+    tagline: Applied AI Manager (GenAI, Computer Vision, NLP)
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a senior data scientist with a strong background in mathematics and statistics developing end-to-end AI pipelines. My focus has been on finding data driven innovative solutions to real-world business problems that resulted in several successful NLP and ML solutions in IT, healthcare, and finance across private and public sectors.  
+      Rahil possess extensive AI expertise with 10+ years of Machine Learning experience, specializing in Computer Vision, NLP, Large Language Models, Recommendation Systems, 3D modeling, and Statistical analysis and Forecasting. Her expertise lies in designing, developing, and deploying comprehensive and scalable AI solutions across multiple industries, including Geospatial and Map Building, Healthcare, and Financial services for both public and private sector organizations. 
 education:
     - degree: MSc in Mathematical Statistics
       university: Georgia State University
@@ -72,23 +72,29 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Data Scientist
-      time: 2018 - Present
+    - role: Applied AI Manager
+      time: 2021 - Present
+      company: Deloitte Consulting, McLean, Virginia
+      details: |
+          Led the design, development, and deployment of large-scale Computer Vision models at Meta, leveraging Meta’s cloud based internal tools to enhance accuracy of geospatial data and 3D modeling. 
+    
+    - role: Lead Data Scientist
+      time: 2018 - 2021
       company: REISystems, Sterling, Virginia
       details: |
-        I am leading the data science research team by providing technical guidance on key business drivers, data acquisition, proper statistical, machine learning, deep learning methods, and tools. I am designing high-quality statistical metrics, experiments and analytic plans for data modeling processes while developing deep neural network and natural language understanding frameworks using state-of-the-art language models . 
+        Led the data science research team by providing technical guidance on key business drivers, data acquisition, proper statistical, machine learning, deep learning methods, and tools. I am designing high-quality statistical metrics, experiments and analytic plans for data modeling processes while developing deep neural network and natural language understanding frameworks using state-of-the-art large language models . 
          
     - role: Data Scientist
       time: 2015 - 2017
       company: NueSoft Tech., Atlanta, Georgia
       details: |
-        I was performing machine learning techniques to equip marketing and senior managers to formulate customer’s behavior. I designed several statistical experiments (A/B tests) to enhance the CRM software that resulted in 20% more users’ engagement.
+        Performed machine learning techniques to equip marketing and senior managers to formulate customer’s behavior. I designed several statistical experiments (A/B tests) to enhance the CRM software that resulted in 20% more users’ engagement.
         
     - role: Statistical Research Assistant
       time: 2013 - 2016
       company: Georgia State University, Atlanta, Georgia 
       details: |
-        I was teaching statistics and linear algebra to graduate and undergraduate students. 
+        Thought statistics and linear algebra to graduate and undergraduate students. 
         
 projects:
     title: Projects
@@ -129,12 +135,10 @@ skills:
     title: Skills & Tools
 
     toolset:
-      - name: Machine Learning
-      - name: Deep Neural Learning
-      - name: NLP, NLU
-      - name: Language Models
+      - name: Generative AI
+      - name: Computer Vision
+      - name: NLP
       - name: Recommendation Systems
-      - name: Statistical Inference
       - name: Python
       - name: AWS (S3, SageMaker)
       - name: R
