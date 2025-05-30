@@ -42,9 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      As a Data Science and Gen AI leader with 10+ years of experience designing, developing, and deploying scalable AI/ML frameworks, I’ve successfully partnered with clients and executives across industries including healthcare, media, finance, and government. I have extensive experience implementing cutting-edge AI applications such as AI avatars, chatbots, and LLM-driven solutions to support business growth. I specialize in leading strategy and roadmap development for Gen AI and LLMs initiatives, bridging technical innovation with real business outcomes. I spearhead Deloitte’s flagship AI avatar projects powered with Gen AI, overseeing e2e delivery across teams, from defining scope, price modeling, and success metrics to partnering with clients and firm leaders to gather functional requirements, validate technical feasibility and drive cross-functional collaboration.  
+      As a Data Science and Gen AI leader with 10+ years of experience designing, developing, and deploying scalable AI/ML frameworks, I’ve successfully partnered with clients and executives across industries including healthcare, media, finance, and government. I have extensive experience implementing cutting-edge AI applications such as AI avatars, chatbots, and LLM-driven solutions to support business growth. I specialize in leading strategy and roadmap development for Gen AI and LLMs initiatives, bridging technical innovation with real business outcomes.  
 education:
-    - degree: MSc in Mathematical Statistics
+    - degree: M.S. in Mathematical Statistics
       university: Georgia State University
       time: 2013 - 2016
       details: |
@@ -76,7 +76,7 @@ experiences:
       time: 2021 - Present
       company: Deloitte Consulting, McLean, Virginia
       details: |
-          Led the design, development, and deployment of end2end computer vision frameworks that generates, and extracts map related objects from aerial and street images to support a high-fidelity AR map, enhance map object detection and alignment, enable pedestrian navigation, and geospatial analysis.
+          Spearhead Deloitte’s flagship AI avatar projects powered with Gen AI, overseeing e2e delivery across teams, from defining scope, price modeling, and success metrics to partnering with clients and firm leaders to gather functional requirements, validate technical feasibility and drive cross-functional collaboration. I develop multiple AI avatars POCs to demonstrate firm capabilities in advanced Gen AI applications at high-profile events (Nvidia GTC, India AI Forum), resulting in increased client engagement and contracts. 
 
     - role: Lead Data Scientist
       time: 2018 - 2021
@@ -136,13 +136,13 @@ skills:
 
     toolset:
       - name: Generative AI
-      - name: Computer Vision
-      - name: NLP
+      - name: LLMs
+      - name: AI Avatars
       - name: Recommendation Systems
-      - name: Python
-      - name: AWS (S3, SageMaker)
-      - name: R
-      - name: Spark
+      - name: Computer Vision
+      - name: AWS
+      - name: Azure
       - name: Databricks
+      - name: Python
       
      
